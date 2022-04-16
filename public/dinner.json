@@ -1,0 +1,56 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a11b32d6ead",
+        "name": "Salmon with Grapefruit",
+        "price": 9.99,
+        "img": "https://i.ibb.co/s6866rd/dinner1.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a22b3626ead",
+        "name": "Lemony Salmon Piccata",
+        "price": 10.99,
+        "img": "https://i.ibb.co/4PzBDr0/dinner2.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a33b362dad",
+        "name": "Pork Tenderloin With Quinoa pilaf",
+        "price": 21.99,
+        "img": "https://i.ibb.co/BtnC9gS/dinner3.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a44b362d6ead",
+        "name": "French fries With cheese",
+        "price": 5.99,
+        "img": "https://i.ibb.co/0M26HZZ/dinner4.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a55362d6ead",
+        "name": "Garlic Butter Baked Salmon",
+        "price": 6.99,
+        "img": "https://i.ibb.co/SKZL4jT/dinner5.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a66b363d6ead",
+        "name": "Baked chiken",
+        "price": 9.99,
+        "img": "https://i.ibb.co/P9ndscj/dinner6.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    }
+]
