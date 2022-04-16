@@ -1,0 +1,14 @@
+.breakfast {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 260px;
+}
+
+.breakfast img {
+    width: 200px;
+    margin: 0 auto;
+    transition: transform .5s;
+}
+
+.breakfast img:hover {
+    transform: scale(1.5);
+}

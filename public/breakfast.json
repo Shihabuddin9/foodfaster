@@ -1,0 +1,56 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b32d6ead",
+        "name": "Begel and cream cheese",
+        "price": 420,
+        "img": "https://i.ibb.co/ykLZR1y/breakfast1.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b3626ead",
+        "name": "Breakfast sandwich",
+        "price": 420,
+        "img": "https://i.ibb.co/h8M2jKD/breakfast2.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362dad",
+        "name": "Baked Chiken",
+        "price": 420,
+        "img": "https://i.ibb.co/T1pLG59/breakfast3.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a7b362d6ead",
+        "name": "Eggs Benedict",
+        "price": 420,
+        "img": "https://i.ibb.co/jwm4bPC/breakfast4.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77362d6ead",
+        "name": "Toast Croissant Fried egg",
+        "price": 420,
+        "img": "https://i.ibb.co/1K9kSzY/breakfast5.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b363d6ead",
+        "name": "Full Breakfast Fried Egg Toast",
+        "price": 420,
+        "img": "https://i.ibb.co/x7Mvr32/breakfast6.png",
+        "shipping": 1,
+        "quantity": 0,
+        "body": "How we dream about our future"
+    }
+]
