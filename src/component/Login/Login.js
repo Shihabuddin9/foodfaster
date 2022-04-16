@@ -38,7 +38,7 @@ const Login = () => {
     }
 
     return (
-        <div className='w-1/4 mx-auto mt-14'>
+        <div className='w-1/4 mx-auto'>
             <img style={{ width: '200px', margin: '0 auto' }} src={logo2} alt="" />
             <form onSubmit={handelUserSummit} className='flex-none mt-20 mb-3'>
                 <input onBlur={handelEmailBlur} className='w-full bg-slate-200 pl-2 py-2 font-semibold	 rounded text-black' type='email' id='email' placeholder='Email' required />

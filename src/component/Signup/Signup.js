@@ -53,7 +53,7 @@ const Signup = () => {
     // }
 
     return (
-        <div className='w-1/4 mx-auto mt-14'>
+        <div className='w-1/4 mx-auto'>
             <img style={{ width: '200px', margin: '0 auto' }} src={logo2} alt="" />
             <form onSubmit={handelUserSubmit} className='flex-none mt-20 mb-2'>
                 <input className='w-full bg-slate-200 pl-2 py-2 font-semibold	 rounded text-black' type='text' id='name' placeholder='Name' />

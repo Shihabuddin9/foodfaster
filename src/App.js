@@ -9,11 +9,12 @@ import Breakfasts from './component/Breakfasts/Breakfasts';
 import Lunchs from './component/Lunchs/Lunchs';
 import Dinners from './component/Dinners/Dinners';
 import Navbar from './component/Navbar/Navbar';
+import Footer from './component/fixedPart/Footer/Footer';
 
 
 function App() {
   return (
-    <div>
+    <div className=''>
       <Header></Header>
       <Routes>
         <Route path='/' element={<SearchArea></SearchArea>}>
@@ -26,7 +27,7 @@ function App() {
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/signUp' element={<Signup></Signup>}></Route>
       </Routes>
-
+      <Footer></Footer>
     </div>
   );
 }

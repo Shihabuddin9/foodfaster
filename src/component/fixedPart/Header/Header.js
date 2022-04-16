@@ -10,7 +10,7 @@ const Header = () => {
     return (
         <div className='bg-slate-200 fixed w-full'>
             <header className='flex justify-between items-center mx-24'>
-                <img className='my-2 cursor-pointer' style={{ width: '150px' }} src={logo2} alt="" />
+                <Link to='/'> <img className='my-2 cursor-pointer' style={{ width: '150px' }} src={logo2} alt="" /></Link>
                 <div className='py-2'>
 
                     {

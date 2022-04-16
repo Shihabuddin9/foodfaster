@@ -10,7 +10,7 @@ const Breakfasts = () => {
             .then(data => setBareakfasts(data))
     }, [])
     return (
-        <div className='grid grid-cols-3 mx-28 ml-44 mt-6'>
+        <div className='grid grid-cols-3 mx-28 ml-44 mt-6 pb-28'>
             {
                 breakfasts.map(breakfast => <Breakfast
                     key={breakfast.id}
